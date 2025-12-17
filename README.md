@@ -5,7 +5,7 @@
 
 ## ✨ Sobre mim
 
-Me chamo **Gildarte Ramos**, e sou natural de **Feira de Santana/BA**. Atualmente estou cursando **Análise e Desenvolvimento de Sistemas** e tenho focado na área de Análise de Dados.
+Me chamo **Gildarte Ramos**, e sou natural de **Feira de Santana/BA**. Atualmente estou cursando **Análise e Desenvolvimento de Sistemas** e tenho direcionado meus estudos para a área de Análise de Dados.
 
 Tenho uma natureza curiosa e analítica, o que me motivou a entrar nesse universo da análise de dados e me permitiu questionar padrões e buscar entender o porquê por trás dos números. Utilizo Python, SQL e Power BI para investigar dados, organizar informações e construir análises objetivas.
 
