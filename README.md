@@ -29,8 +29,7 @@ Tenho uma natureza curiosa e analítica, o que me motivou a entrar nesse univers
 
 | Projeto           | Descrição                  | Tecnologias |
 | ----------------- | -------------------------- | ----------- |
-| 🔗 [Projeto 1](#) | Descrição curta do projeto | React, Node |
-| 🔗 [Projeto 2](#) | Descrição curta do projeto | Python, SQL |
+| 🔗 [Projeto 1](#https://github.com/grpneto/Ecommerce_SQL) | Banco de dados relacional para e-commerce em SQL | SQL, MySQL |
 
 
 ## 📈 GitHub Stats
