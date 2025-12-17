@@ -9,21 +9,8 @@ Me chamo **Gildarte Ramos**, e sou natural de **Feira de Santana/BA**. Atualment
 
 Sou apaixonada(o) por tecnologia e compartilho conhecimento através do meu **GitHub**, **YouTube** e **Instagram**, onde ensino a criar projetos práticos e soluções do mundo real.
 
-🌐 **Portfólio:** [grpneto.github.com](#)
+🌐 **Portfólio:** [grpneto.github.io](https://grpneto.github.io)
 
----
-
-## 📊 Estatísticas
-
-<div align="center">
-
-![GitHub followers](https://img.shields.io/github/followers/grpneto?style=for-the-badge\&color=5865F2)
-![GitHub stars](https://img.shields.io/github/stars/grpneto?style=for-the-badge\&color=F7C843)
-![Profile views](https://komarev.com/ghpvc/?username=grpneto\&style=for-the-badge)
-
-</div>
-
----
 
 ## 🚀 Linguagens e Tecnologias
 
