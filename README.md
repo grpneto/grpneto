@@ -2,7 +2,6 @@
 
 ### Analista de Dados
 
----
 
 ## ✨ Sobre mim
 
