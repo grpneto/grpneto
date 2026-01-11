@@ -25,14 +25,6 @@ Tenho uma natureza curiosa e analítica, o que me motivou a entrar nesse univers
 
 
 
-## 📌 Projetos em Destaque
-
-| Projeto           | Descrição                  | Tecnologias |
-| ----------------- | -------------------------- | ----------- |
-| 🔗 [Projeto 1](https://github.com/grpneto/Ecommerce_SQL) | Banco de dados relacional para e-commerce em SQL | SQL, MySQL |
-
-
-
 ## 🤝 Vamos nos conectar?
 
 💼 [LinkedIn](https://www.linkedin.com/in/gildarteramos/)
