@@ -32,16 +32,6 @@ Tenho uma natureza curiosa e analítica, o que me motivou a entrar nesse univers
 | 🔗 [Projeto 1](https://github.com/grpneto/Ecommerce_SQL) | Banco de dados relacional para e-commerce em SQL | SQL, MySQL |
 
 
-## 📈 GitHub Stats
-
-<div align="center">
-
-<img height="160em" src="https://github-readme-stats.vercel.app/api?username=grpneto&show_icons=true&theme=tokyonight" />
-
-<img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=grpneto&layout=compact&theme=tokyonight" />
-
-</div>
-
 
 ## 🤝 Vamos nos conectar?
 
