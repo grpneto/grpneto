@@ -3,7 +3,7 @@
 ### Analista de Dados
 
 
-## ✨ Sobre mim
+## ☝️ Sobre mim
 
 Me chamo **Gildarte Ramos**, e sou natural de **Feira de Santana/BA**. Atualmente estou cursando **Análise e Desenvolvimento de Sistemas** e tenho direcionado meus estudos para a área de Análise de Dados.
 
